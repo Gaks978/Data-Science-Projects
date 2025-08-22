@@ -7,5 +7,6 @@ Most projects in this repository use some or all of the following tools:
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn, TensorFlow, PyTorch (as needed)
 - Other libraries per project
+
 Contributions are welcome! If you have ideas or improvements, feel free to open an issue or submit a pull request.
 For questions or suggestions, open an issue or reach out at [Gaks978 on GitHub](https://github.com/Gaks978).
